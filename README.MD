@@ -1,27 +1,27 @@
-# Business Problem :
+## Business Problem :
 
-### Problem statement: The goal is to come up with a solution for the given questions:
+#### Problem statement: The goal is to come up with a solution for the given questions:
 
 1. Can we categorize the customers in a particular segment based on their buying patterns? (Customer Segmentation)
 
 2. Can we predict which kind of items they will buy in future based on their segmentation? (Prediction)
 
-### Input: We will be using e-commerce data that contains the list of purchases in 1 year for 4,000 customers.
+** Input: ** We will be using e-commerce data that contains the list of purchases in 1 year for 4,000 customers.
 
-### Output: The first goal is that we need to categorize our consumer base into appropriate customer segments. The second goal is we need to predict the purchases for the current year and the next year based on the customers' first purchase.
+** Output: ** The first goal is that we need to categorize our consumer base into appropriate customer segments. The second goal is we need to predict the purchases for the current year and the next year based on the customers' first purchase.
 
 <hr>
 
-# ML Problem Mapping.
+## ML Problem Mapping.
 
 1. Given a dataset of transanctions (Online Retail dataset from UCI Machine Learning repository) get the segments i.e clusters/segments. (Find common patterns and group them)
 2. Predict what to display to what group of users
 
 <hr>
 
-# Additional Info.
+## Additional Info.
 
-### What is Customer Segmentation ?
+#### What is Customer Segmentation ?
 
 Customer segmentation is a process where we divide the consumer base of the company into subgroups. We need to generate the subgroups by using some specific characteristics so that the company sells more products with less marketing expenditure. Before moving forward, we need to understand the basics, for example, what do I mean by customer base? What do I mean by segment? How do we generate the consumer subgroup? What are the characteristics that we consider while we are segmenting the consumers? Let's answers these questions one by one.
 
@@ -37,11 +37,11 @@ Suppose a company is selling baby products. Then, it needs to come up with a con
 
 When we have different segments, we can design a customized marketing strategy as well as customized products that suit the customer of the particular segment. This segment-wise marketing will help the company sell more products with lower marketing expenses. Thus, the company will make more profit. This is the main reason why companies use customer segmentation analysis nowadays. Customer segmentation is used among other domain such as the retail domain, finance domain, and in customer relationship management (CRM)-based products. 
 
-### How companies are making marketing strategies based on the customer segmentation analysis?
+#### How companies are making marketing strategies based on the customer segmentation analysis?
 
 Companies are using the STP approach to make the marketing strategy firm.
 
-### What is STP ?
+#### What is STP ?
 
 STP stands for Segmentation-Targeting-Positioning. In this approach, there are three stages. The points that we handle in each stage are explained as follows:
 
